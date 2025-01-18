@@ -107,7 +107,6 @@ Alternativamente, navegue para dentro da pasta onde estão os seguintes arquivos
 
 -`UrnaEletronicaJava.java`;
 
--`README.md`.
 
 ## Autor(a):
 
